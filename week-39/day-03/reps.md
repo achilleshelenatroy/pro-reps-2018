@@ -1,6 +1,6 @@
-## **30 minutes or less Repetition Drill**
+## **One hour or less Repetition Drill**
 
-## The reps that are about to follow should approximately take 30 minutes or less including the time it takes to refer back to the pilots and grasp some things you had left out before. 
+## The reps that are about to follow should approximately take a hour or less including the time it takes to refer back to the pilots and grasp some things you had left out before. 
 
 ## **Reps**
 
