@@ -22,7 +22,7 @@
 ### - check the current working directory
 ### - change the current working directory to a folder inside the root directory named "boot" 
 ### - enter the absolute pathname for "boot directory
-### - create a directory named "faster" inside "milestone" without changing the current working directory 
+### - create a directory named "faster" inside "milestone" 
 ### - output a message to the temrinal screen. The message should be "no days off". 
 ### - create a comment that says "Mcdonalds, I'm hungry" 
 ### - execute the "rep" script you have written above assuming that the "rep" file is in the "usr" directory inside the root directory.
